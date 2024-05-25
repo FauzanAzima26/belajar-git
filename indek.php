@@ -14,5 +14,5 @@ $namaBelakang = "Azima";
 echo $namaDepan . " " . $namaBelakang;
 echo "<br>";
 
-echo date("d-m- H:i:s");
+// echo date("d-m- H:i:s");
 ?>
